@@ -18,7 +18,7 @@ The dataset includes important features such as:
 - **Half Bathrooms**: The number of half bathrooms in the property.
 - **Overall Property Condition**: The overall quality rating of the property.
 
-The full dataset can be accessed and downloaded from the City of Cambrigde Open Data Portal website at [Cambridge Open Data Portal](https://www.data.cambridgema.gov).
+The full dataset can be accessed and downloaded from the City of Cambrigde Open Data Portal website at [Cambridge Open Data Portal](https://data.cambridgema.gov).
 
 ### Prediction Process
 
